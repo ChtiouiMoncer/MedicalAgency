@@ -3,8 +3,7 @@ Using Symfony this Web App will help to facilitate and improve the Medical treat
 
 DIAGRAMMES:
 
-DIA![Uploading use case general.png…]()
-
+![use case general](https://user-images.githubusercontent.com/46131932/211179242-2ad50276-5970-4f36-9020-1f238e19e86a.png)
 
 ![class diagramme](https://user-images.githubusercontent.com/46131932/211179115-dac98076-478c-4ae4-9069-0983778d8add.png)
 

@@ -1,5 +1,5 @@
 # MedicalAgency
-Using Symfony this Web App will help to facilitate and improve the Medical treatment process and as a patient it offers the possibility of following their requests, the app offers also statistics to the admin and the doctor about how many patients requests
+A management platform for a medical agency developed using the Symfony PHP framework and MVC pattern. This app is designed to facilitate and enhance the medical treatment process. For patients, it offers the capability to track their requests. Additionally, the app provides administrators with valuable statistics about treatment processes.
 
 DIAGRAMMES:
 
